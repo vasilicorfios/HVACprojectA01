@@ -1,0 +1,14 @@
+#import pymata4, time
+from pymata4 import pymata4; import time
+
+
+#main function
+def main():
+    #insert all functions to create cohesive main
+    #function for blocks 1 and 2
+    
+
+
+
+if __name__ == "__main__"
+    main()    
